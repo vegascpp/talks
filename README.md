@@ -11,7 +11,7 @@ presentations in our meetings.
  * If you have additional items, like source code, provide a link to them
    in your slides.
  * The best way to submit your slides is to fork this repository to
-   your account, and submit a pull request. It will be reviewed as quicly
+   your account, and submit a pull request. It will be reviewed as quickly
    as possible.
 
 # Contact
